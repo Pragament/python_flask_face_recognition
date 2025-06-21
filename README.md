@@ -1,4 +1,4 @@
-# python_flask_face_recognition
+![Screenshot (76)](https://github.com/user-attachments/assets/816ce16d-8bed-40b7-8b90-6cb19d8f69df)# python_flask_face_recognition
 # python_flask_face_recognition
 
 Flask web app
@@ -26,7 +26,10 @@ The app extracts frames where any uploaded face matches appear.
 
 ### Upload Interface
 
+![Screenshot (76)](https://github.com/user-attachments/assets/9f621b76-072b-40b5-beb9-445cc5fe24e7)
+
 ### Detection Results
+![Screenshot (75)](https://github.com/user-attachments/assets/98ec38c0-11f1-4da6-a8cb-f5bae051cfef)
 
 
 ## ⚙️ Tech Stack
