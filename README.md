@@ -21,16 +21,16 @@ The app extracts frames where any uploaded face matches appear.
 
 
 
-## Demo Screenshots
+## Screenshots
 
 
 ### Upload Interface
 
+![Screenshot (76)](https://github.com/user-attachments/assets/caf3993b-232b-4ba2-b108-0592bb944f5d)
 
 
 ### Detection Results
-
-
+![Screenshot (75)](https://github.com/user-attachments/assets/719917c6-49c8-433c-8a54-b0a77d966660)
 
 
 ## ⚙️ Tech Stack
@@ -54,11 +54,11 @@ The app extracts frames where any uploaded face matches appear.
 
 ## 🚀 Getting Started
 
-Clone Repository
-pip install -r requirements.txt
-pip install opencv-contrib-python
-pip install yt-dlp
-python app.py
+-Clone Repository
+-pip install -r requirements.txt
+-pip install opencv-contrib-python
+-pip install yt-dlp
+-python app.py
 
 
 
